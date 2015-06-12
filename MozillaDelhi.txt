@@ -1,0 +1,62 @@
+Delhi
+Delhi , officially the National Capital Territory of Delhi, is the Capital territory of India. It has a population of about 11 million and a metropolitan population of about 16.3 million, making it the second most populous city and second most populous urban agglomeration in India. Such is the nature of urban expansion in Delhi that its growth has expanded beyond the NCT to incorporate towns in neighbouring states and at its largest extent can count a population of about 25 million residents as of 2014.
+
+Private schools in Delhi – which use either English or Hindi as the language of instruction – are affiliated to one of three administering bodies, the Council for the Indian School Certificate Examinations (CISCE), the Central Board for Secondary Education (NCERT (CBSE)) or the National Institute of Open Schooling (NIOS). In 2004–05, approximately 15.29 lakh (1.529 million) students were enrolled in primary schools, 8.22 lakh (0.822 million) in middle schools and 6.69 lakh (0.669 million) in secondary schools across Delhi. Female students represented 49% of the total enrolment. The same year, the Delhi government spent between 1.58% and 1.95% of its gross state domestic product on education.
+
+Schools and higher educational institutions in Delhi are administered either by the Directorate of Education, the NCT government or private organisations. In 2006, Delhi had 165 colleges, five medical colleges and eight engineering colleges, seven major universities and nine deemed universities. Indraprastha Institute of Information Technology, Delhi Technological University, Guru Gobind Singh Indraprastha University and National Law University are the only state universities, Indira Gandhi National Open University is for distance education and the rest are central universities. As of 2008, about 16% of all Delhi residents possessed at least a college graduate degree.
+
+Mozilla Delhi
+Mozilla Delhi is one of the active communities of Mozilla in India. Mozilla Delhi consists of a group of Technical and Non-technical Person who are working together towards making a better Web .
+
+Mozilla Delhi is an old community of India but it was revamped again in 2014 by the presence of Mozpacers in Delhi . Mozpacers started forming several communication channels in Delhi so that they can find interested people in and around Delhi NCR who are willing to contribute to the Mozilla Project.
+
+About Mozpacers
+Mozpacers , as the name suggests means Bringing pace to the Mozilla Community by doing a splendid amount of Contribution. The group was initially formed in Jan 2014 with three Mozillians Anup , Ajay and Bhuvnesh but as of now there are several contributors of Mozpacers spread across several parts of India like Punjab , Delhi NCR , Himachal Pradesh , UP and Uttarakhand. Mozpacers have organized events in these areas and formed a small Mozilla Community in these areas and keep on working with these guys remotely so that they can contribute without any barriers.
+
+Mozpacers are very active in Delhi right now and their focus is to strengthen the community in Delhi NCR and making this community one of the most active communities of the world. Mozpacers consists of more than 25 active members as of now who are working to spread the word about Mozilla.
+
+In short " Mozpacers refers to a group of people who are working to build a better way by contributing into various Projects of Mozilla and also Spreading Web Literacy. The group consists of a mixture of people from Corporates , Students etc whose vision is to help create a better web where Privacy of a person is never compromised and where Principal is always ahead of Profits."
+
+Past Few Events
+If you missed our past few events, don't worry we document it for you . You can find the discussion summary of our last few meetings here.
+
+MozCoffee V 3.0
+MozCoffee V 2.0
+MozCoffee V 1.0
+Appmaker Event
+MozDay
+MozVision
+MozLiteracy
+Firefox 10th Birthday Celebrations
+Himachal Pradesh Community Building Event
+MozRefresh Event at Punjab
+Upcoming Events
+MozCoffee V 4.0
+Mozilla Delhi Developer Sprint V 1.0
+Community Events
+We meet on bi weekly basis to discuss about the health of community . Most of the members are always available on slack all the time for any help.
+
+Contribution Path
+You can find various areas of contribution at Mozilla here.
+
+Our Volunteers Teams
+We are thankful to our volunteers who are spreading the word about Mozilla Project and contributing into the various projects . To make everyone clear of their role and responsibilities our community has formed various Contributors Team as per the skills. Each Contributor Team has well defined objectives and goals which is helping spread the Mozilla Mission and Improving the whole community . Below are the various Contributors Team which as a whole combines up to form the Mozilla Delhi Team.
+
+Technical Contributors
+Localization Contributors
+Engagement Contributors
+Documentation Contributors
+WOMOZ Contributors
+Event Speakers and Volunteers
+Communication Channels
+Like Our Facebook page here.
+Join our Slack group  here.
+Join our Whatsapp group -Text to +91-8826155388
+Follow us on twitter here
+
+Contact Us
+If you have any questions about our community or want to get in touch , mail us at mozpacers@gmail.com
+
+
+License
+Mozilla Delhi is a group of open source contributors who represent Mozilla Foundation or Corporation in the Delhi NCR Region. To ensure compliance with policy trademarks of Mozilla Foundation, the following statement is made: The use of trademarks Mozilla, Firefox, Thunderbird, SeaMonkey, Sunbird, Camino, Bugzilla and other for Mozilla Foundation, and the use of the logos of Mozilla, Firefox and Thunderbird is done for the sole purpose of publicizing and promoting Mozilla products and explicitly recognizes that Mozilla Delhi does not own or have any rights to such trademarks or logos. It also states that, according to the information in the FAQ on Mozilla's trademarks (in English) , trademarks and logos mentioned in the previous section are the exclusive property of Mozilla Foundation.

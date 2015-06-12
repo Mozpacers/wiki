@@ -1,0 +1,37 @@
+Mozilla Delhi Dev Sprint 1.0
+
+Tentative Date  : 13 or 14th June 
+
+Venue : TBD
+
+Attendees :
+
+Anup 
+Ajay
+Bhuvnesh
+Harish
+Sanyam
+kunal
+Nikhil
+Vikram
+Abhijeet
+Yash
+Gitansh
+Chirag
+Prateek
+
+
+High Level Agenda Items : ( Add anything technical related to the community here, whatever it is and requires technical work .)
+
+Documentation of sections to be made
+Bootstraping Website Development by making refined prototype
+Also overall design and logo on Photoshop
+Going into html injection and xss testing for firefox os 1.3
+Refining website prototype using suggestions from technical team members
+Making a github repository for project.
+Discussion on the newly created WireFrames and Finalize the same.
+Use of the newly created repository at ( https://github.com/MozillaDelhi )
+Write an automated process of backing up everything at ( https://wiki.mozilla.org/MozillaDelhi ) 
+
+Take Bugs and  assign to ourselves (http://www.joshmatthews.net/bugsahoy/ ) and work upon it
+Assignig task specifially so that we can spped up development on Mozilla Delhi Website and Some nice deep discussion to work on a specific bug.

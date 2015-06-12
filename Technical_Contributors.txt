@@ -1,0 +1,29 @@
+Mozilla Delhi/Technical Contributors
+Contents
+
+    1 Owner
+    2 Leads
+    3 Core Contributors
+    4 Interns
+
+Owner
+
+    Anup Mishra
+
+(Anup is the acting owner of the team , until the owner is identified in the community from the present contributors.)
+Leads
+
+The leader has to be identified among the contributors after some level of contributions.
+Core Contributors
+
+    Sanyam
+    Kunal Relan
+    Vikram Jaswal
+    Nikhil Handa
+    Chirag Batra
+    Prateek Kumar
+    Anshuman Rathee
+
+Interns
+
+Any new team member joins as a intern .Currently there are no interns in the team. 

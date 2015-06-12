@@ -1,0 +1,25 @@
+Mozilla Delhi/Documentation Contributors
+Contents
+
+    1 Owner
+    2 Leads
+    3 Core Contributors
+    4 Interns
+
+Owner
+
+    Anup Mishra
+
+
+Leads
+
+    Bhuvnesh Kumar
+    Ajay Kumar
+
+Core Contributors
+
+    Harish Raturi
+
+Interns
+
+Any new team member joins as a intern .Currently there are no interns in the team. 
